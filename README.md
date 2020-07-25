@@ -3,5 +3,5 @@
 #git master checkout comment
 #Git merge
 
-Merging information
+Merging information small chage
 -another fast forward comment
