@@ -4,3 +4,4 @@
 #Git merge
 
 Merging information
+-another fast forward comment
